@@ -1,0 +1,7 @@
+ALBymAddLineBreak.xcodeproj/xcuserdata/
+ALBymAddLineBreak.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+ALBymAddLineBreak.xcodeproj/project.xcworkspace/xcuserdata/
